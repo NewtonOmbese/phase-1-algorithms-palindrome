@@ -9,7 +9,7 @@
   "author": "Flatiron School",
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
-    "chai": "^4.3.4",
+    "chai": "^4.5.0",
     "mocha": "^6.2.3",
     "mocha-multi": "^1.1.3"
   }
